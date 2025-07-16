@@ -2,7 +2,7 @@
 
 return {
   version = '1.0'
-  codes =  {
+  codes = {
     "777",
     "ThreeBeeVee",
     "15MMembers",
